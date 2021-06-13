@@ -8,3 +8,4 @@
 /httpRequests/
 **/mvnw
 **/mvnw.cmd
+**/.mvn
